@@ -7,7 +7,13 @@ hands-on exercises, practical examples, and real-world projects.
 
 ### Part 1: Getting Started
 - [ ] Chapter 01 - Introduction to TypeScript
-- [ ] Chapter 02 - Environment Setup
+  - [x] JavaScript vs TypeScript warm-up (hello.js / hello.ts)
+  - [x] Exercises 1-3
+  - [x] Challenge exercise (multiply)
+  - [x] Chapter notes
+  - [x] Mini project
+  - [ ] Assessment
+- [x] Environment setup (Node, Git, VS Code, tsc, repo)
 - [ ] Chapter 03 - TypeScript vs JavaScript
 - [ ] Chapter 04 - The TypeScript Compiler (tsc)
 - [ ] Chapter 05 - Your First TypeScript Program
